@@ -27,8 +27,5 @@
   # install the rubygem-toolbelt
   yum install rubygem-heroku
 
-  # To use heroku on Fedora you will need xclip and to add an ssh key to heroku.
-  echo "Now just get xclip and generate an ssh key to add to your Heroku account to get started!"
-
 SCRIPT
 }
