@@ -13,7 +13,7 @@ Using this Script
 
 Use these terminal commands to run the script:
 
-$ cd *Directory this script is in*
+$ cd *DIRECTORY SCRIPT IS IN*
 
 $ bash fedora.sh
 
